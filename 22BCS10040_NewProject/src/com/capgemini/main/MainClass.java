@@ -37,8 +37,5 @@ public class MainClass {
 		default:
 			System.out.println("Invalid Input");
 		}}while(true);
-		
-		
 	}
-
 }
