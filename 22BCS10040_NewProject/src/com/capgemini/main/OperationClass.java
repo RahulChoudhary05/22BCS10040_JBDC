@@ -168,8 +168,6 @@ public class OperationClass {
 				System.out.println("Student Name:"+rs.getString(3));
 				System.out.println("Student Course:"+rs.getString(4));
 				System.out.println("Student Batch:"+rs.getInt(5));
-			}
-			
+			}	
 		}
-		
 }
